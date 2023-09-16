@@ -33,6 +33,9 @@ html, body{
 .nav-menu{
     display: none;
 }
+.nav-element{
+    text-decoration: none;
+}
 
 .main{
     height: 100%;
@@ -235,7 +238,7 @@ hr{
         object-fit: cover;
         width: 13vw;
     }
-    
+
     .hero-text{
         top: 8vw;
         left: 18vw;

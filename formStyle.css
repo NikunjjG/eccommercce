@@ -35,6 +35,10 @@ html, body{
     display: none;
 }
 
+.nav-element{
+    text-decoration: none;
+}
+
 .content{
     display: flex;
     padding: 7vw 3vw;

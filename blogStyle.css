@@ -40,6 +40,10 @@ html, body{
     display: none;
 }
 
+.nav-element{
+    text-decoration: none;
+}
+
 .blog-heading{
     font-size: 4vw;
     line-height: 0.3;
